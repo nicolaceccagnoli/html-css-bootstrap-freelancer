@@ -70,3 +70,7 @@
 .avatar {
     max-width: 300px;
 }
+
+.cabin img {
+    width: 100%;
+}
