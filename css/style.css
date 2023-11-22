@@ -67,7 +67,6 @@
     justify-content: flex-end;
 }
 
-
-li {
-    list-style: none;
+.avatar {
+    max-width: 300px;
 }
