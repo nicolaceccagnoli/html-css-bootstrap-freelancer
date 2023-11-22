@@ -67,10 +67,38 @@
     justify-content: flex-end;
 }
 
+/* 
+    HEADER
+*/
+
+header, footer {
+    background-color: #2D3E50;
+}
+
+/* 
+    JUMBOTRON
+ */
+
 .avatar {
     max-width: 300px;
 }
 
 .cabin img {
     width: 100%;
+}
+
+/* 
+    SEZIONI
+*/
+
+.jumbotron, .section-2 {
+    background-color: #1BBC9C;
+}
+
+/* 
+    FOOTER
+*/
+
+.footer-top {
+    background-color: #3A546D;
 }
